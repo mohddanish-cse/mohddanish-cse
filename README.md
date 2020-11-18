@@ -1,6 +1,6 @@
 ### Hi, I am Danish 👋
 
-📫 How to reach me: Email: mddanish.cse@gmail.com
+📫 How to reach me: mddanish.cse@gmail.com
 
 <!--
 **mohddanish-cse/mohddanish-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
