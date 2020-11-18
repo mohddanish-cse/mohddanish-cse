@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me:
+[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+
+
+### Portfolio<br>
+✔http://mohddanish-cse.github.io/<br>
+<br>
 ### Certifications
 🌱 AI For Everyone – Coursera | deeplearning.ai <br>
 🌱 Crash Course on Python – Coursera | Google <br>
@@ -24,4 +32,18 @@ Here are some ideas to get you started:
 🌱 Programming Essentials in C – Cisco <br>
 🌱 Programming Essentials in C++ – Cisco <br>
 🌱 Programming Essentials in Python – Cisco <br>
+
+### Languages and Tools:
+[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]
+[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+
+<br />
+<br />
+
+
+[r]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg
+[python]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+[vscode]: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
+[linkedin]: https://www.linkedin.com/in/mohd-danish-cse/
 
