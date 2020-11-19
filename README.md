@@ -1,5 +1,7 @@
 ### Hi, I am Danish 👋
-
+Computer Science Student from Hyderabad, India.<br/>
+Ready to work on open-source projects.<br/>
+Looking for internships.<br/><br/>
 📫 How to reach me: mddanish.cse@gmail.com
 
 <!--
