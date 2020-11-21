@@ -1,5 +1,5 @@
 ### Hi, I am Danish 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mohddanish-cse" alt="mohddanish-cse" /> </p><br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mohddanish-cse" alt="mohddanish-cse" /> </p>
 
 Computer Science Student from Hyderabad, India.<br/>
 Ready to work on open-source projects.<br/>
