@@ -1,4 +1,4 @@
-### Hi, I am Danish 👋
+## Hi, I am Danish 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mohddanish-cse" alt="mohddanish-cse" /> </p>
 
 - Computer Science Student from Hyderabad, India.<br/>
