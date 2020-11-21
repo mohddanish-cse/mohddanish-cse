@@ -1,9 +1,9 @@
 ### Hi, I am Danish 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mohddanish-cse" alt="mohddanish-cse" /> </p>
 
-Computer Science Student from Hyderabad, India.<br/>
-Ready to work on open-source projects.<br/>
-Looking for internships.<br/>
+- Computer Science Student from Hyderabad, India.<br/>
+- Ready to work on open-source projects.<br/>
+- Looking for internships.<br/>
 
 <!--
 **mohddanish-cse/mohddanish-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: mddanish.cse@gmail.com
+📫  How to reach me: mddanish.cse@gmail.com
 
 
 ### Connect with me:
