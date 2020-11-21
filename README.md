@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nssk1999" alt="nssk1999" /> </p>
+
 
 ### Connect with me:
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,12 +38,15 @@ Here are some ideas to get you started:
 🌱 Programming Essentials in Python – Cisco <br>
 
 ### Languages and Tools:
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+[python]
+[r]
+[vscode]
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <br />
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddanish-cse&layout=compact" alt="nssk1999" /></p>
 
 
 [r]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg
