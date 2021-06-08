@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 🌱 Programming Essentials in C++ – Cisco <br>
 🌱 Programming Essentials in Python – Cisco <br>
 
+<br />
+<br />
 
 <!--
 ### Languages and Tools:
@@ -46,9 +48,9 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> -->
 
-<br />
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddanish-cse&layout=compact" alt="nssk1999" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohddanish-cse)
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddanish-cse&layout=compact" alt="" /></p>
 
 
 [python]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
