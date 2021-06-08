@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ### Portfolio<br>
-✔http://mohddanish-cse.github.io/<br>
+✔https://mohd-danish.netlify.app/<br>
 <br>
 ### Certifications
 🌱 AI For Everyone – Coursera | deeplearning.ai <br>
