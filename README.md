@@ -1,9 +1,7 @@
-## Hi, I am Danish 👋
+## I am Danish 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mohddanish-cse" alt="mohddanish-cse" /> </p>
 
-- Computer Science Student from Hyderabad, India.<br/>
-- Ready to work on open-source projects.<br/>
-- Looking for internships.<br/>
+- Computer Science Engineer from India.<br/>
 
 <!--
 **mohddanish-cse/mohddanish-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,22 +19,25 @@ Here are some ideas to get you started:
 📫  How to reach me: mddanish.cse@gmail.com
 
 
-### Connect with me:
+### Connect with me: 
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<!-- [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <br>
 
 
 ### Portfolio<br>
-✔https://mohd-danish.netlify.app/<br>
+✔ https://mohd-danish.netlify.app/<br>
 <br>
-### Certifications
-🌱 AI For Everyone – Coursera | deeplearning.ai <br>
-🌱 Crash Course on Python – Coursera | Google <br>
-🌱 Networking Essentials – Cisco <br>
-🌱 Cybersecurity Essentials – Cisco <br>
-🌱 Programming Essentials in C – Cisco <br>
-🌱 Programming Essentials in C++ – Cisco <br>
-🌱 Programming Essentials in Python – Cisco <br>
+### Courses and Certifications
+✔ Microsoft Certified : Azure Fundamentals <br>
+✔ Crash Course on Python – Google <br>
+✔ AI For Everyone – Coursera | deeplearning.ai <br>
+✔ Networking Essentials – Cisco <br>
+✔ Cybersecurity Essentials – Cisco <br>
+✔ Programming Essentials in C – Cisco <br>
+✔ Programming Essentials in C++ – Cisco <br>
+✔ Programming Essentials in Python – Cisco <br>
 
 <br />
 <br />
