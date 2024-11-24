@@ -1,7 +1,7 @@
 ## I am Danish 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mohddanish-cse" alt="mohddanish-cse" /> </p><br/>
 
-### Computer Science Engineer from India <br/>
+### Software Engineer from India <br/>
 
 <!--
 **mohddanish-cse/mohddanish-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
