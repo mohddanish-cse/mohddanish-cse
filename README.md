@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 <!-- [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <br>
 
-
+<!--
 ### Portfolio<br>
 ✔ https://mohd-danish.netlify.app/<br>
+-->
 <br>
 ### Courses and Certifications
 ✔ Microsoft Certified : Azure Fundamentals <br>
