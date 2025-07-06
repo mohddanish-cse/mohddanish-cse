@@ -33,14 +33,19 @@ Here are some ideas to get you started:
 
 ### Courses and Certifications
 ✔ Microsoft Certified : Azure Fundamentals <br>
+✔ AWS Certified Cloud Practitioner<br>
+✔ AWS Educate Machine Learning Foundations<br>
+✔ AWS Partner: Generative AI Essentials<br>
 ✔ Crash Course on Python – Google <br>
 ✔ AI For Everyone – Coursera | deeplearning.ai <br>
+
+<!--
 ✔ Networking Essentials – Cisco <br>
 ✔ Cybersecurity Essentials – Cisco <br>
 ✔ Programming Essentials in C – Cisco <br>
 ✔ Programming Essentials in C++ – Cisco <br>
 ✔ Programming Essentials in Python – Cisco <br>
-
+-->
 <br />
 <br />
 
